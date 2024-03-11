@@ -6,5 +6,5 @@ echo "username is $USERNAME" # i am printing the username  just for validation ,
 # here -s means do not echo input coming from terminal
 
 echo "please enter your password:"
-read -s UPASSWORD #the value entered will be automatically atteched to USERNAME variable 
-echo "upassword is $PASSWORD" 
+read -s PASSWORD #the value entered will be automatically atteched to USERNAME variable 
+echo "password is $PASSWORD" 
