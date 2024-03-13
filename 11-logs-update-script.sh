@@ -22,7 +22,7 @@ then
 echo -e   $R "ERROR:: please run this script with root access $N"
 exit 1 # you can give other than 0 (beacuse 0 means success so we need to give other than 0 to exit)
 else 
-echo -e  " $G you are root user "
+echo -e  "  you are root user "
 fi # fi means reverse of if , indicating condition end
 
 yum install mysql -y &>> $LOGFILE
