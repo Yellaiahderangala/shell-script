@@ -1,5 +1,5 @@
 #!/bin/bash
 
-this is first script 
+this is my first script
 
-echo " print hello world "
+echo " print hello world ''
